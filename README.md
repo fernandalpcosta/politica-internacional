@@ -11,6 +11,7 @@ A ideia é começar pela base (conceitos e um pouco de história) e só depois c
 ## 🗺️ Roteiro
 
 ### Parte 1 — A base
+
 | # | Módulo | O que você vai entender |
 |---|--------|-------------------------|
 | 1 | [Conceitos básicos](01-conceitos-basicos.md) | Estado, soberania, poder, ONU, OTAN e as principais "lentes" para ler o mundo |
@@ -19,6 +20,7 @@ A ideia é começar pela base (conceitos e um pouco de história) e só depois c
 | 4 | [O mundo depois de 1991](04-mundo-pos-1991.md) | Globalização, 11 de Setembro, crise de 2008 e o fim da "era de ouro" do Ocidente |
 
 ### Parte 2 — O mundo hoje
+
 | # | Módulo | Foco |
 |---|--------|------|
 | 5 | [Rússia, Ucrânia e Europa](05-russia-ucrania-europa.md) | A maior guerra na Europa desde 1945 |
