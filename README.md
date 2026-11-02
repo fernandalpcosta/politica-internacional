@@ -4,7 +4,7 @@ Um guia introdutório para entender o que está acontecendo no mundo: guerras, d
 
 A ideia é começar pela base (conceitos e um pouco de história) e só depois chegar às notícias de hoje. Assim, quando você ler uma manchete sobre a Ucrânia, Gaza ou a China, vai saber de onde aquilo vem.
 
-> **Atualizado em:** 28 de outubro de 2026. A parte de atualidade (módulos 5 a 10) muda rápido. Os módulos de história e conceitos são estáveis.
+> **Atualizado em:** 2 de novembro de 2026. A parte de atualidade (módulos 5 a 10) muda rápido. Os módulos de história e conceitos são estáveis.
 
 ---
 

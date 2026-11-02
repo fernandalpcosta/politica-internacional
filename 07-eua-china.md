@@ -2,7 +2,7 @@
 
 [← Oriente Médio](06-oriente-medio.md) · [Próximo: América Latina →](08-america-latina-brasil.md)
 
-> 📅 Situação atualizada em **28/10/2026**.
+> 📅 Situação atualizada em **02/11/2026**.
 
 ---
 
@@ -39,9 +39,10 @@ A China é a principal compradora de petróleo russo e mantém uma "parceria sem
 ## 4. Onde estamos agora
 
 - Trump e Xi tiveram **três encontros presenciais em menos de um ano**: na Coreia do Sul (outubro de 2025), em Pequim (maio de 2026) e em Washington, numa **visita de Estado de Xi em 23 e 24 de setembro de 2026**, a primeira de um líder chinês aos EUA em 11 anos.
-- Há uma **trégua comercial** desde outubro de 2025, prorrogada em setembro por mais dois meses. A China prometeu comprar mais soja americana e adiou novas restrições às terras raras.
+- Há uma **trégua comercial** desde outubro de 2025. Em setembro, ela foi prorrogada por só dois meses, até **10 de janeiro de 2027** (o mercado esperava de seis meses a um ano). A China vem cumprindo a promessa de comprar soja americana, mas os EUA reclamam que os envios de terras raras ainda não voltaram ao nível combinado. Em resposta, Washington passou a usar como moeda de troca as licenças de peças para o avião comercial chinês C919.
 - Os analistas divergem: uns veem só um "teatro" antes das eleições americanas; outros, um passo útil. Quase todos duvidam que um grande acordo esteja próximo, e as prorrogações estão ficando mais curtas.
-- **Eleições de meio de mandato nos EUA em 3 de novembro de 2026:** podem mudar o controle do Congresso e o espaço de manobra de Trump.
+- **Próximo encontro:** a cúpula da **APEC** acontece em **Shenzhen, na China, em 18 e 19 de novembro**. Taiwan deve voltar à pauta: há relatos de que os EUA pensaram em adiar novas vendas de armas à ilha até depois dessas cúpulas, para não atrapalhar a trégua.
+- **Eleições de meio de mandato nos EUA em 3 de novembro de 2026:** podem mudar o controle do Congresso (hoje republicano) e o espaço de manobra de Trump. Às vésperas da votação, as pesquisas favoreciam os democratas, e a aprovação de Trump estava perto de **37%**, uma das mais baixas de um presidente nesse momento. Os críticos citam a inflação e a guerra com o Irã; Trump prevê que os republicanos manterão as duas Casas para seguir com o "América Primeiro".
 
 ## 5. Os EUA de Trump e a ordem mundial
 
@@ -63,5 +64,11 @@ O segundo mandato de Trump (desde 2025) mudou bastante a política externa ameri
 - [Al Jazeera — O que está por trás da prorrogação da trégua comercial EUA–China (24/09/2026)](https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension)
 - [China Briefing — Relações EUA–China em 2026](https://www.china-briefing.com/news/us-china-relations-in-2026-what-to-watch/)
 - [BRG — Relações EUA–China após Washington, outubro de 2026](https://www.thinkbrg.com/insights/publications/the-more-things-change-us-china-relations-after-washington-october-2026/)
+- [Startup Fortune — Trégua das terras raras prorrogada até janeiro](https://startupfortune.com/us-and-china-extend-their-rare-earth-truce-by-just-two-months-to-january/)
+- [Asia Times — EUA limitam licenças de peças de avião para a China (outubro de 2026)](https://asiatimes.com/2026/10/for-rare-earth-leverage-us-caps-aircraft-parts-licenses-to-china/)
+- [China Strategy — EUA avaliam adiar venda de armas a Taiwan (18/09/2026)](https://www.chinastrategy.org/2026/09/18/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits/)
+- [Wikipedia — APEC China 2026](https://en.wikipedia.org/wiki/APEC_China_2026)
+- [Yahoo News — O que dizem as últimas pesquisas para as eleições de meio de mandato (31/10/2026)](https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html)
+- [Fox News — O que saber sobre o controle da Câmara e do Senado](https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing)
 
 [← Oriente Médio](06-oriente-medio.md) · [Próximo: América Latina →](08-america-latina-brasil.md)

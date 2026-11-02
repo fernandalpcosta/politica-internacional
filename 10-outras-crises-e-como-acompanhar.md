@@ -2,7 +2,7 @@
 
 [← Extrema-direita](09-extrema-direita-populismo.md) · [Glossário →](glossario.md)
 
-> 📅 Situação atualizada em **28/10/2026**.
+> 📅 Situação atualizada em **02/11/2026**.
 
 ---
 
@@ -15,14 +15,15 @@ Algumas das piores tragédias do mundo recebem pouca atenção. Vale conhecer as
 - Mais de **13 milhões de pessoas** foram deslocadas, e cerca de **33,7 milhões** precisam de ajuda. Há **fome confirmada** em partes de Darfur e Kordofan.
 - Em **outubro de 2025**, as RSF tomaram a cidade de **El Fasher**. Uma missão da ONU concluiu em 2026 que houve crimes contra a humanidade e **genocídio** contra comunidades não árabes.
 - Em 2026, a guerra avança para o Kordofan, com ataques de drones que já mataram mais de mil civis só nos primeiros cinco meses do ano. Não há cessar-fogo duradouro.
-- Potências regionais apoiam lados diferentes, o que prolonga o conflito.
+- **El Obeid**, capital do Kordofan do Norte e cidade-chave no caminho para Cartum, virou o novo foco. Um relatório da ONU de **28/10/2026** diz que os moradores estão presos entre os **drones das RSF**, que atingem casas, escolas e redes de água e luz, e as **prisões arbitrárias do exército**, que mantém milhares de detidos em locais superlotados. Segundo a missão, outubro teve o maior número de ataques de drones contra civis de toda a guerra, e só cerca de 30% dos hospitais da cidade funcionam.
+- Potências regionais apoiam lados diferentes, o que prolonga o conflito. A missão da ONU encontrou uma rede que abastece as RSF passando por Chade, Líbia, Somália (Puntland) e Emirados Árabes Unidos, e pede que o embargo de armas, hoje limitado a Darfur, valha para todo o Sudão.
 
 ### Outros conflitos para ter no radar
 - **🇨🇩 República Democrática do Congo:** guerra no leste, rica em minerais usados em celulares, com o grupo M23 e o envolvimento de Ruanda.
 - **🌍 Sahel** (Mali, Burkina Faso, Níger): golpes militares, grupos jihadistas, saída das tropas francesas e aproximação com a Rússia.
 - **🇲🇲 Mianmar:** guerra civil desde o golpe militar de 2021.
 - **🇭🇹 Haiti:** gangues controlam grande parte da capital.
-- **🇾🇪 Iêmen:** os Houthis, apoiados pelo Irã, atacam navios e a Arábia Saudita.
+- **🇾🇪 Iêmen:** os Houthis, apoiados pelo Irã, atacam navios e a Arábia Saudita. Os combates no país voltaram com força em 2026, e a ONU fala em mais de 300 mil deslocados no oeste do Iêmen.
 - **🇮🇳🇵🇰 Índia e Paquistão:** a Caxemira segue como foco de tensão entre duas potências nucleares.
 
 ---
@@ -73,6 +74,8 @@ Algumas das piores tragédias do mundo recebem pouca atenção. Vale conhecer as
 
 ### Fontes
 - [Global Centre for the Responsibility to Protect — Sudão](https://www.globalr2p.org/countries/sudan/)
+- [ONU News — Civis de El Obeid presos entre drones e prisões (28/10/2026)](https://news.un.org/en/story/2026/10/1168696)
+- [Khaleej Times — Houthis e Arábia Saudita (01/11/2026)](https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-1-2026)
 - [CFR — Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict)
 
 [← Extrema-direita](09-extrema-direita-populismo.md) · [Glossário →](glossario.md)

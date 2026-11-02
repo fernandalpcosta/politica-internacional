@@ -2,7 +2,7 @@
 
 [← América Latina](08-america-latina-brasil.md) · [Próximo: Outras crises →](10-outras-crises-e-como-acompanhar.md)
 
-> 📅 Situação atualizada em **28/10/2026**.
+> 📅 Situação atualizada em **02/11/2026**.
 
 ---
 
@@ -50,7 +50,7 @@ Os simpatizantes acrescentam outro argumento: que esses partidos crescem porque 
 ### 🇪🇺 Europa
 Uma pesquisa em 31 países europeus mostrou que **quase um quarto dos eleitores** já apoia partidos de extrema-direita.
 
-- **🇫🇷 França:** o **Reagrupamento Nacional (RN)**, de Marine Le Pen e Jordan Bardella, lidera as pesquisas para a eleição presidencial de **abril de 2027**, com 31% a 36% no primeiro turno, pelo menos 11 pontos à frente do segundo colocado.
+- **🇫🇷 França:** em **25/10/2026**, **Marine Le Pen** lançou oficialmente sua candidatura à eleição presidencial (1º turno em **18 de abril de 2027**), com **Jordan Bardella** como seu nome para primeiro-ministro. Ela ainda recorre de uma condenação por desvio de verbas do Parlamento Europeu. As pesquisas de outubro dão a ela de 32% a 37% no primeiro turno, cerca de 15 pontos à frente de Jean-Luc Mélenchon (esquerda radical) e Édouard Philippe (centro-direita). O avanço veio depois de protestos contra o custo de vida que terminaram em saques e vandalismo em 17/10: numa pesquisa, 74% dos franceses disseram que Le Pen é quem mais ganha politicamente com os distúrbios. Ela promete "tolerância zero" na segurança e linha dura contra a imigração.
 - **🇩🇪 Alemanha:** a **AfD** é o segundo maior partido do país desde 2025. Em setembro de 2026, conquistou **43,8%** na eleição estadual da Saxônia-Anhalt, mais que o dobro da CDU do chanceler Merz. Os outros partidos mantêm um "cordão sanitário" para não governar com ela, mas esse acordo está sob pressão.
 - **🇬🇧 Reino Unido:** o **Reform UK**, de Nigel Farage, chegou a liderar pesquisas (cerca de 28% em maio de 2026), mas caiu para perto de 22% em algumas pesquisas de outubro, atrás dos trabalhistas.
 - **🇮🇹 Itália:** **Giorgia Meloni** (Irmãos de Itália) é primeira-ministra desde 2022. Tem governado de forma mais moderada do que muitos esperavam e apoia a Ucrânia.
@@ -60,7 +60,8 @@ Uma pesquisa em 31 países europeus mostrou que **quase um quarto dos eleitores*
 
 ### 🌎 Fora da Europa
 - **🇺🇸 EUA:** o movimento **MAGA** de Trump é a referência mundial do nacional-populismo. Seus apoiadores rejeitam o rótulo de "extrema-direita".
-- **🇧🇷 Brasil:** o **bolsonarismo** continua forte. Flávio Bolsonaro chegou a 48% no segundo turno de 2026.
+- **🇧🇷 Brasil:** o **bolsonarismo** continua forte. Flávio Bolsonaro chegou a 48% no segundo turno de 2026. Depois da derrota, ele foi para os EUA, contestou o resultado e diz sofrer perseguição (veja o [módulo 8](08-america-latina-brasil.md)).
+- **🇮🇱 Israel:** a coalizão de Netanyahu, que inclui partidos de extrema-direita como o de Itamar Ben-Gvir, ficou sem maioria na eleição de outubro de 2026 (veja o [módulo 6](06-oriente-medio.md)).
 - **🇦🇷 Argentina:** **Javier Milei** combina ultraliberalismo econômico com o discurso antielite e a guerra cultural.
 - **🇮🇳 Índia:** o nacionalismo hindu de **Narendra Modi** é outro exemplo, com debates próprios.
 
@@ -83,6 +84,10 @@ Esses movimentos se conectam: participam de encontros como a **CPAC**, trocam ap
 - [CBS News — Como a direita populista em alta está remodelando a Europa (19/10/2026)](https://www.cbsnews.com/news/how-europes-surging-populist-right-is-reshaping-the-political-establishment/)
 - [AP via KTTC — Orbán reconhece derrota (12/04/2026)](https://www.kttc.com/2026/04/12/hungarian-prime-minister-orbn-concedes-defeat-european-electoral-earthquake/?outputType=amp)
 - [Al Jazeera — Eleição brasileira de 2026](https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win)
+- [AP via Spokesman-Review — Le Pen lança candidatura em meio a protestos (25/10/2026)](https://www.spokesman.com/stories/2026/oct/25/frances-le-pen-launches-presidential-bid-as-protes/)
+- [Rio Times — Pesquisa: Le Pen é quem mais ganha com os distúrbios (27/10/2026)](https://www.riotimesonline.com/le-pen-gains-most-from-french-unrest-poll)
+- [France-Vote — Média das pesquisas presidenciais (outubro de 2026)](https://www.france-vote.fr/sondages)
+- [Anadolu — Le Pen lidera pesquisa apesar da polêmica com Bardella](https://www.aa.com.tr/en/world/france-s-far-right-le-pen-leads-2027-presidential-poll-despite-bardella-controversy/4088722)
 - Leitura recomendada: Cas Mudde, *A extrema direita hoje*; Steven Levitsky e Daniel Ziblatt, *Como as democracias morrem*.
 
 [← América Latina](08-america-latina-brasil.md) · [Próximo: Outras crises →](10-outras-crises-e-como-acompanhar.md)

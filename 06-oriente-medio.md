@@ -2,7 +2,7 @@
 
 [← Rússia e Ucrânia](05-russia-ucrania-europa.md) · [Próximo: EUA e China →](07-eua-china.md)
 
-> 📅 Situação atualizada em **28/10/2026**. Este é o tema em que as palavras são mais disputadas. O guia tenta mostrar como cada lado enxerga os fatos.
+> 📅 Situação atualizada em **02/11/2026**. Este é o tema em que as palavras são mais disputadas. O guia tenta mostrar como cada lado enxerga os fatos.
 
 ---
 
@@ -33,11 +33,18 @@
 ### 4. O cessar-fogo e onde estamos
 
 - Em **outubro de 2025**, um cessar-fogo baseado num plano dos EUA entra em vigor, com a libertação dos reféns.
-- **Um ano depois**, a situação continua violenta: Israel segue com bombardeios e diz que o Hamas se recusa a se desarmar. As autoridades de Gaza contam mais de **1.400 palestinos mortos desde o cessar-fogo**.
-- Israel controla **mais de 60% do território de Gaza**, depois de ampliar a chamada "Linha Amarela", que o acordo previa como linha inicial de retirada.
-- Moradores de Gaza dizem viver como se a guerra nunca tivesse acabado.
+- **Um ano depois**, a situação continua violenta. As autoridades de Gaza contam pelo menos **1.580 palestinos mortos desde o cessar-fogo** (e mais de 74 mil desde o início da guerra).
+- Israel controla **mais de 60% do território de Gaza**, depois de ampliar a chamada "Linha Amarela", que o acordo previa como linha inicial de retirada, e trabalha para chegar a **70%**. A ONU diz que os palestinos estão sendo empurrados para uma área cada vez menor.
+- **O impasse:** o Hamas diz que só se desarma por completo quando Israel sair de Gaza; Israel diz que só sai quando o Hamas entregar as armas. Enquanto isso, a reconstrução não começou e moradores dizem viver como se a guerra nunca tivesse acabado.
 
-### 5. As grandes perguntas
+### 5. A eleição de 2026 em Israel
+
+- Em **27/10/2026**, Israel votou para o Parlamento (Knesset, 120 cadeiras), com uma das maiores participações em décadas. **Ninguém chegou às 61 cadeiras** necessárias para governar.
+- **Bloco de Netanyahu:** 53 cadeiras (o Likud continua o maior partido, com 27). **Oposição judaica**, liderada pelo ex-chefe do Exército **Gadi Eisenkot**: 48. **Partidos árabes:** 19, um recorde.
+- **O dilema da oposição:** somada aos partidos árabes, ela teria 67 cadeiras, mas parte dela (como Avigdor Lieberman) se recusa a governar com eles ou depender deles. O presidente **Isaac Herzog** ouve os partidos a partir de 4/11 e deve indicar até 11/11 quem tenta formar governo. Ele já defendeu um governo de união. Até lá, Netanyahu segue como premiê interino.
+- **Leituras diferentes:** para a oposição, o resultado é uma derrota de Netanyahu depois do 7 de outubro. Para o Likud, ele continua liderando o maior partido e o maior bloco judaico. Analistas notaram que **Gaza quase não foi tema de campanha**, que girou em torno do Judiciário, do alistamento de ultraortodoxos e da investigação sobre as falhas do 7 de outubro.
+
+### 6. As grandes perguntas
 
 - **Solução de dois Estados?** É a posição oficial da maior parte do mundo (inclusive do Brasil e da Espanha, que reconheceu o Estado da Palestina em 2024), mas parece cada vez mais distante.
 - **O que Israel diz:** precisa garantir que nunca mais haverá um 7 de outubro, e isso exige destruir o Hamas.
@@ -66,9 +73,9 @@
 
 ### 3. Onde estamos agora
 
-- Em outubro, os ataques diretos estão pausados, mas a situação é **muito instável**. Trump e Netanyahu ameaçam novos ataques, e o Irã promete retaliar.
-- Jornais americanos relatam que os EUA e Israel têm **planos para atacar o Irã depois das eleições americanas de meio de mandato** (3 de novembro).
-- O Irã cobra **pedágios** de navios em Ormuz por meio de um órgão ligado à Guarda Revolucionária, e os Houthis atacam a Arábia Saudita.
+- **Diplomacia x ameaça:** os grandes bombardeios estão pausados, e **Catar e Paquistão** mediam conversas em Doha. Trump diz que ainda falta "cuidar" de um ou dois alvos no Irã, e jornais americanos relatam planos de ataque para **depois das eleições de meio de mandato** (3/11). O Irã exige o fim do bloqueio americano a seus portos e alívio das sanções antes de tudo, recusa negociar o programa nuclear e promete resposta "sem limites geográficos" a novos ataques.
+- **Ormuz, ainda o centro da crise:** outubro foi o mês com **mais ataques a navios** na região desde o início da guerra (mais de 30), com petroleiros atingidos por minas e projéteis. Os EUA mantêm um bloqueio naval e uma rota pelo sul do estreito, que o Irã considera ilegal; o Irã cobra **pedágios** de navios por meio de um órgão ligado à Guarda Revolucionária.
+- **Iêmen e Líbano:** os Houthis lançam mísseis e drones contra a Arábia Saudita, que bombardeou o porto iemenita de Hodeidah. No Líbano, um acordo-quadro com Israel assinado em junho prevê o desarmamento do Hezbollah, que se recusa a entregar as armas; Israel continua fazendo ataques aéreos.
 - Internamente, o regime endureceu: as **execuções aumentaram**, com pelo menos 2.003 no ano até 8 de outubro, segundo a ONG HRANA.
 
 ---
@@ -77,11 +84,18 @@
 1. Por que os nomes dos eventos (Nakba x Independência, "ocupação" x "territórios disputados") são tão importantes neste conflito?
 2. Como uma guerra no Irã afeta o preço da gasolina em Barcelona?
 3. Que interesses têm a Arábia Saudita e os países do Golfo nessa história?
+4. Por que você acha que Gaza quase não apareceu na campanha eleitoral israelense?
 
 ### Fontes
 - [CFR — Global Conflict Tracker: conflito israelo-palestino](https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict)
 - [Asharq Al-Awsat — Um ano de cessar-fogo em Gaza (09/10/2026)](https://english.aawsat.com/arab-world/5327888-year-ceasefire-israel-wages-scaled-down-war-gaza)
 - [Times of Israel — Moradores de Gaza um ano após o cessar-fogo](https://www.timesofisrael.com/one-year-into-ceasefire-vexed-gazans-say-theyre-still-living-like-war-never-ended/)
+- [Al Jazeera — Ataques israelenses continuam em Gaza (31/10/2026)](https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue)
+- [Al Jazeera — Por que Gaza não esteve na eleição israelense (31/10/2026)](https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot)
+- [Al Jazeera — Quem vai formar o governo em Israel? (01/11/2026)](https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it)
+- [Ynet — Quem recebe primeiro a chance de formar governo](https://www.ynetnews.com/article/sk8eaw4pge)
+- [CBS News — Ao vivo: guerra do Irã e diplomacia (30/10 a 01/11/2026)](https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/)
+- [Khaleej Times — Ao vivo: Irã, Houthis e Arábia Saudita (01/11/2026)](https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-1-2026)
 - [Wikipedia — Cronologia da guerra do Irã de 2026](https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)
 - [Wikipedia — Cessar-fogo da guerra do Irã de 2026](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
 - [Iran International — EUA e Israel ameaçam novos ataques (19/10/2026)](https://www.iranintl.com/en/202610194621)

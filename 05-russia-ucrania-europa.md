@@ -2,7 +2,7 @@
 
 [← Depois de 1991](04-mundo-pos-1991.md) · [Próximo: Oriente Médio →](06-oriente-medio.md)
 
-> 📅 Situação atualizada em **28/10/2026**.
+> 📅 Situação atualizada em **02/11/2026**.
 
 ---
 
@@ -41,11 +41,13 @@
 
 **🌍 Boa parte do Sul Global** (Brasil, Índia, África do Sul) condena a violação de fronteiras em votações na ONU, mas **não adere às sanções** e defende negociações. O Brasil tenta se apresentar como possível mediador.
 
-## 5. Onde estamos agora (outubro de 2026)
+## 5. Onde estamos agora (início de novembro de 2026)
 
-- **Frente de batalha:** a Rússia controla cerca de um quinto do território ucraniano (Crimeia e partes de Donetsk, Luhansk, Zaporíjia e Kherson). Segundo o ISW, as defesas ucranianas **frearam bastante o avanço russo em 2026** em comparação com anos anteriores, e não havia sinal de que a Rússia pudesse acelerar.
-- **Guerra de drones e ataques à distância:** em outubro, um ataque russo em massa contra a Ucrânia matou pelo menos 20 pessoas. A Ucrânia, por sua vez, lançou mais de mil drones contra a Rússia, atingindo instalações de petróleo, inclusive na região de São Petersburgo.
-- **Negociações:** em 26/10, Zelensky disse que Ucrânia, Rússia e EUA concordaram em retomar **negociações a três em novembro**, e voltou a pedir um encontro com Putin para discutir **questões territoriais**. O nó principal: a Rússia quer ficar com os territórios ocupados (e mais), enquanto a Ucrânia resiste em ceder território e quer garantias de segurança.
+- **Frente de batalha:** a Rússia controla cerca de um quinto do território ucraniano (Crimeia e partes de Donetsk, Luhansk, Zaporíjia e Kherson). Segundo o ISW, as defesas ucranianas **frearam bastante o avanço russo em 2026** em comparação com anos anteriores. No fim de outubro, os dois lados registravam pequenos avanços locais (os russos ao norte de Kharkiv, os ucranianos perto de Borova), sem mudanças grandes no mapa.
+- **Um cessar-fogo local em Oleshky:** desde **27/10**, vale uma trégua na cidade ocupada de Oleshky, na região de Kherson, onde ainda viviam cerca de 2 mil civis isolados. O acordo foi intermediado pela primeira-dama dos EUA, Melania Trump, para permitir ajuda humanitária e a saída de moradores. Segundo o ombudsman ucraniano, é a trégua local mais longa respeitada pelos dois lados desde 2022. É pequena, mas mostra que acordos pontuais são possíveis.
+- **Guerra de drones e ataques à distância:** os ataques continuam dos dois lados. Na virada de outubro para novembro, drones e mísseis russos atingiram uma usina em Kiev e subestações elétricas, deixando centenas de milhares de casas sem luz, com o inverno chegando. A Ucrânia atingiu refinarias na Rússia (em Ufa) e uma fábrica de combustível de foguete.
+- **Negociações:** Ucrânia, Rússia e EUA marcaram uma nova rodada **a três em Abu Dhabi**, depois de 4 de novembro. Zelensky fala em algo entre 6 e 10 de novembro; o Kremlin diz que a data depende "da situação no campo de batalha". As conversas lideradas pelos EUA tinham travado em fevereiro.
+- **O nó continua o mesmo:** a Rússia exige que a Ucrânia entregue **todo o Donbass**, inclusive a parte que ainda controla, e quer os europeus fora da mesa. A Ucrânia recusa ceder terra que defende, quer a Europa nas conversas e pede garantias de segurança fortes, além de financiamento para seu exército por 10 anos. Para o ISW, Moscou mantém as exigências máximas de 2022; o Kremlin, por sua vez, culpa os ataques ucranianos de longo alcance pelo impasse.
 
 ## 6. E a Europa?
 
@@ -62,9 +64,10 @@
 3. Por que a derrota de Orbán na Hungria importa para a Ucrânia?
 
 ### Fontes
-- [Al Jazeera — Zelensky: negociações com Rússia e EUA serão retomadas (26/10/2026)](https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart)
-- [Al Jazeera — Ataque russo em massa (07/10/2026)](https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine)
-- [Al Jazeera — Ucrânia lança mais de mil drones contra a Rússia (19/10/2026)](https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites)
+- [Moscow Times — Cessar-fogo em Oleshky e novas negociações (24/10/2026)](https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069)
+- [Meduza — Kremlin: negociações em Abu Dhabi depois de 4 de novembro (29/10/2026)](https://meduza.io/amp/en/news/2026/10/29/kremlin-says-u-s-russia-ukraine-peace-talks-will-take-place-in-abu-dhabi-after-november-4-depending-on-battlefield-conditions)
+- [Reuters via Korea Times — Zelensky: reunião entre 6 e 10 de novembro (29/10/2026)](https://www.koreatimes.co.kr/world/20261029/ukraine-russia-us-peace-negotiators-to-meet-between-nov-6-and-10-zelenskyy-says)
+- [ISW — Avaliação da campanha russa (31/10/2026)](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-31-2026)
 - [ISW via Korabelov — ritmo russo desacelera em 2026](https://korabelov.info/en/2026/08/602396/isw-in-2026-russia-s-pace-sharply-slowed-the-buffer-zone-near-kharkiv-remains-out-of-reach/)
 - [AP via KTTC — Orbán reconhece derrota (12/04/2026)](https://www.kttc.com/2026/04/12/hungarian-prime-minister-orbn-concedes-defeat-european-electoral-earthquake/?outputType=amp)
 
