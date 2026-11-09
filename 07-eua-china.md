@@ -2,7 +2,7 @@
 
 [← Oriente Médio](06-oriente-medio.md) · [Próximo: América Latina →](08-america-latina-brasil.md)
 
-> 📅 Situação atualizada em **02/11/2026**.
+> 📅 Situação atualizada em **09/11/2026**.
 
 ---
 
@@ -39,10 +39,13 @@ A China é a principal compradora de petróleo russo e mantém uma "parceria sem
 ## 4. Onde estamos agora
 
 - Trump e Xi tiveram **três encontros presenciais em menos de um ano**: na Coreia do Sul (outubro de 2025), em Pequim (maio de 2026) e em Washington, numa **visita de Estado de Xi em 23 e 24 de setembro de 2026**, a primeira de um líder chinês aos EUA em 11 anos.
-- Há uma **trégua comercial** desde outubro de 2025. Em setembro, ela foi prorrogada por só dois meses, até **10 de janeiro de 2027** (o mercado esperava de seis meses a um ano). A China vem cumprindo a promessa de comprar soja americana, mas os EUA reclamam que os envios de terras raras ainda não voltaram ao nível combinado. Em resposta, Washington passou a usar como moeda de troca as licenças de peças para o avião comercial chinês C919.
+- Há uma **trégua comercial** desde outubro de 2025 (o "acordo de Busan"): ela limita as tarifas americanas sobre produtos chineses a cerca de 20%, suspende as restrições chinesas à exportação de terras raras e prevê compras chinesas de soja e outros produtos agrícolas. Em setembro, foi prorrogada por só dois meses, até **10 de janeiro de 2027** (o mercado esperava de seis meses a um ano). Os EUA reclamam que os envios de terras raras ainda não voltaram ao nível combinado e passaram a usar como moeda de troca as licenças de peças para o avião comercial chinês C919.
+- **Nova cobrança:** numa ligação em **6/11**, o secretário do Tesouro, Scott Bessent, e o representante comercial, Jamieson Greer, pediram ao vice-premiê chinês He Lifeng que a China cumpra "total e imediatamente" o que prometeu sobre terras raras e compras agrícolas. Pequim respondeu com "séria preocupação" com novas restrições comerciais americanas e disse que só comprará mais produtos agrícolas se for implementado um pacote de cortes recíprocos de tarifas (de cerca de 60 bilhões de dólares) discutido em setembro.
 - Os analistas divergem: uns veem só um "teatro" antes das eleições americanas; outros, um passo útil. Quase todos duvidam que um grande acordo esteja próximo, e as prorrogações estão ficando mais curtas.
-- **Próximo encontro:** a cúpula da **APEC** acontece em **Shenzhen, na China, em 18 e 19 de novembro**. Taiwan deve voltar à pauta: há relatos de que os EUA pensaram em adiar novas vendas de armas à ilha até depois dessas cúpulas, para não atrapalhar a trégua.
-- **Eleições de meio de mandato nos EUA em 3 de novembro de 2026:** podem mudar o controle do Congresso (hoje republicano) e o espaço de manobra de Trump. Às vésperas da votação, as pesquisas favoreciam os democratas, e a aprovação de Trump estava perto de **37%**, uma das mais baixas de um presidente nesse momento. Os críticos citam a inflação e a guerra com o Irã; Trump prevê que os republicanos manterão as duas Casas para seguir com o "América Primeiro".
+- **Próximos encontros:** Trump e Xi devem se ver na cúpula da **APEC**, em **Shenzhen, na China, em 18 e 19 de novembro**, e de novo no **G20 de Miami, em 14 e 15 de dezembro**. Taiwan deve voltar à pauta: há relatos de que os EUA pensaram em adiar novas vendas de armas à ilha até depois dessas cúpulas, para não atrapalhar a trégua.
+- **🗳️ Os democratas tomam o Congresso:** nas eleições de meio de mandato de **3/11/2026**, os democratas conquistaram a **Câmara** (cerca de 254 cadeiras contra 162, com algumas disputas ainda abertas) e o **Senado** (pelo menos 54 a 44, virando sete cadeiras, inclusive no Texas, em Ohio e no Maine). Disputas no Mississippi e no Alasca ainda não tinham resultado em 9/11. Pelas pesquisas de boca de urna, a aprovação de Trump estava perto de 38%.
+- **Leituras diferentes:** Trump disse que, se ele estivesse na cédula, os republicanos teriam vencido, e reconheceu que a guerra com o Irã pesou por causa do preço da gasolina; o vice JD Vance foi mais direto e atribuiu a derrota à guerra. O senador republicano Ted Cruz falou em "tsunami azul". Os democratas falam em "eleição de mudança"; alguns analistas lembram que isso não significa aprovação automática das propostas democratas. Trump trocou sua chefe de gabinete por Stephen Miller.
+- **O que muda para a política externa:** a partir de janeiro, o Congresso democrata promete investigar o governo e tentar barrar tarifas e a guerra com o Irã, mas o presidente continua com grande poder sobre a política externa. Em comércio, a aposta é que a trégua com a China seja mantida, já que os dois lados têm interesse nela.
 
 ## 5. Os EUA de Trump e a ordem mundial
 
@@ -58,17 +61,22 @@ O segundo mandato de Trump (desde 2025) mudou bastante a política externa ameri
 ## 🤔 Para pensar
 1. Por que controlar as terras raras dá tanto poder à China?
 2. Se você fosse taiwanesa, o que preferiria: que os EUA deixassem claro que te defenderiam, ou que mantivessem a ambiguidade? Por quê?
-3. O Brasil vende muita soja à China e tem os EUA como parceiro histórico. Como fica um país assim nessa rivalidade?
+3. Com o Congresso agora nas mãos da oposição, o que Trump ainda consegue fazer sozinho na política externa?
+4. O Brasil vende muita soja à China e tem os EUA como parceiro histórico. Como fica um país assim nessa rivalidade?
 
 ### Fontes
 - [Al Jazeera — O que está por trás da prorrogação da trégua comercial EUA–China (24/09/2026)](https://www.aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension)
+- [The Standard (Hong Kong) — EUA cobram da China terras raras e compras agrícolas antes dos encontros Trump–Xi (07/11/2026)](https://thestandard.com.hk/china/article/347792/US-urges-China-to-meet-rare-earths-agriculture-commitments-ahead-of-Trump-Xi-meetings)
+- [The National — Para onde vai a estratégia de minerais críticos de Trump (08/11/2026)](https://www.thenationalnews.com/news/us/2026/11/08/where-does-trumps-critical-minerals-strategy-go-from-here/)
+- [Trading Economics — Trégua comercial e terras raras](https://tradingeconomics.com/united-states/balance-of-trade/news/498326)
 - [China Briefing — Relações EUA–China em 2026](https://www.china-briefing.com/news/us-china-relations-in-2026-what-to-watch/)
-- [BRG — Relações EUA–China após Washington, outubro de 2026](https://www.thinkbrg.com/insights/publications/the-more-things-change-us-china-relations-after-washington-october-2026/)
 - [Startup Fortune — Trégua das terras raras prorrogada até janeiro](https://startupfortune.com/us-and-china-extend-their-rare-earth-truce-by-just-two-months-to-january/)
+- [BRG — Relações EUA–China após Washington, outubro de 2026](https://www.thinkbrg.com/insights/publications/the-more-things-change-us-china-relations-after-washington-october-2026/)
 - [Asia Times — EUA limitam licenças de peças de avião para a China (outubro de 2026)](https://asiatimes.com/2026/10/for-rare-earth-leverage-us-caps-aircraft-parts-licenses-to-china/)
 - [China Strategy — EUA avaliam adiar venda de armas a Taiwan (18/09/2026)](https://www.chinastrategy.org/2026/09/18/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits/)
 - [Wikipedia — APEC China 2026](https://en.wikipedia.org/wiki/APEC_China_2026)
-- [Yahoo News — O que dizem as últimas pesquisas para as eleições de meio de mandato (31/10/2026)](https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html)
-- [Fox News — O que saber sobre o controle da Câmara e do Senado](https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing)
+- [Yahoo News — Ao vivo: resultados das eleições de meio de mandato (07/11/2026)](https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html)
+- [CBS News — Ao vivo: repercussão das vitórias democratas](https://www.cbsnews.com/live-updates/election-day-2026-midterms/)
+- [Northeastern University — Análise dos resultados das eleições de 2026](https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/)
 
 [← Oriente Médio](06-oriente-medio.md) · [Próximo: América Latina →](08-america-latina-brasil.md)

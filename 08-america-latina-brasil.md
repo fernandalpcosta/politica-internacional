@@ -2,7 +2,7 @@
 
 [← EUA e China](07-eua-china.md) · [Próximo: Extrema-direita →](09-extrema-direita-populismo.md)
 
-> 📅 Situação atualizada em **02/11/2026**.
+> 📅 Situação atualizada em **09/11/2026**.
 
 ---
 
@@ -24,7 +24,8 @@ A região tem poucas guerras entre países, mas sofre com **violência interna**
 - O regime se torna cada vez mais autoritário. A eleição de 2024 foi considerada fraudulenta pela oposição e por muitos governos, inclusive alguns de esquerda.
 - **03/01/2026:** os **EUA atacam a Venezuela e capturam Maduro**, que é levado aos EUA para ser julgado.
 - **Desde então:** a vice-presidente **Delcy Rodríguez** governa como presidente interina, com o aval do Supremo venezuelano. Ela fez gestos de aproximação com os EUA, como libertar mais de 300 presos políticos. Os EUA aliviaram sanções em troca de promessas de eleições livres e abriram o setor de petróleo a empresas estrangeiras. Mas muitas figuras do chavismo seguem no poder.
-- **Fim de outubro de 2026:** a líder da oposição **María Corina Machado**, Nobel da Paz, **voltou ao país em 25/10**, depois de quase dez meses fora, e disse apostar no diálogo com Delcy. Dias depois, Delcy prometeu realizar todas as eleições previstas na Constituição, com um órgão eleitoral renovado e observadores internacionais, mas **sem dar data** e descartando uma votação imediata. O governo Trump, pela voz de Marco Rubio, cobra um calendário acelerado.
+- **Fim de outubro de 2026:** a líder da oposição **María Corina Machado**, Nobel da Paz, **voltou ao país em 25/10**, depois de quase dez meses fora, e disse apostar no diálogo com Delcy. Dias depois, Delcy prometeu realizar todas as eleições previstas na Constituição, com um órgão eleitoral renovado e observadores internacionais, mas **sem dar data** e descartando uma votação imediata. Ela também trocou de chanceler: saiu Félix Plasencia, entrou **Oliver Blanco**, de 34 anos.
+- **O plano dos EUA:** em **2/11**, Marco Rubio recebeu Blanco em Washington e reforçou o plano de Trump em **três fases**: estabilização, recuperação econômica com reconciliação política e, por fim, transição democrática. A ideia é renovar o Supremo venezuelano até o fim de 2026, criar logo depois um novo Conselho Nacional Eleitoral e, então, Delcy declararia a presidência vaga e convocaria eleições em até seis meses. Machado **apoiou o roteiro**, que aponta para uma eleição presidencial em **2027**, mas criticou a falta de transparência no acordo do petróleo. Ainda não há data oficial.
 
 ⚖️ **O debate:** para uns, a operação libertou o país de uma ditadura. Para outros, foi uma violação grave da soberania e do direito internacional, que lembra as intervenções americanas do século XX. Há também quem veja as duas coisas ao mesmo tempo.
 
@@ -35,7 +36,9 @@ A região tem poucas guerras entre países, mas sofre com **violência interna**
 - **2º turno (25/10/2026):** **Lula venceu**, com pouco mais de **51%** contra **48%** de Flávio. Foi a primeira vez em quase 40 anos que um candidato venceu depois de terminar em segundo no primeiro turno. Aos 80 anos, Lula será o presidente mais velho a tomar posse desde a redemocratização.
 - **Polêmica:** uma prorrogação de última hora do horário de votação, decidida pelo ministro do STF Cristiano Zanin (ex-advogado de Lula), causou confusão. A Polícia Federal investiga denúncias de bloqueios no transporte de eleitores em cinco estados. O TSE proclamou Lula reeleito, com cerca de 4,4 milhões de votos de vantagem, e o resultado foi reconhecido pelo próprio PL, pelo vice de Flávio e por outros países.
 - **Flávio deixa o país:** na noite da eleição, o ministro Alexandre de Moraes mandou cancelar os passaportes de Flávio, investigado num inquérito sigiloso sobre suspeita de **lavagem de dinheiro**. Segundo a imprensa, ele saiu pela Argentina e chegou a **Miami em 28/10**. Numa carta, falou em fraude, pediu a cassação da chapa Lula-Alckmin e chegou a se chamar de "verdadeiro presidente eleito" (trecho que depois trocou por "líder do Brasil"). Ele diz que não fugiu, e sim que saiu de um "regime de exceção", e que vai liderar a oposição dos EUA.
-- ⚖️ **Visões opostas:** aliados e alguns juristas veem perseguição política: a ordem saiu minutos após o resultado, sob sigilo e com base em indícios que consideram frágeis. Críticos, inclusive parte da imprensa, dizem que a carta repete o discurso golpista de 2022 e que a saída do país reforça as suspeitas. Até agora, nenhuma instituição apontou fraude na votação, e a afirmação sobre a prorrogação foi contestada: o TSE registrou só 34 mil votos depois das 17h.
+- **A semana seguinte:** numa entrevista publicada em **6/11**, Flávio admitiu não ter provas de fraude nas urnas (disse que não terá, porque seria "proibido investigar"), mas afirmou que o PL vai pedir a **cassação da chapa Lula-Alckmin por abuso de poder**, citando programas como o Bolsa Família e o Pé-de-Meia lançados ou ampliados no ano eleitoral. Ele diz que só volta ao Brasil se tiver um julgamento justo e não descarta disputar a Presidência em 2030. Em **8/11**, num pronunciamento em rede nacional, Lula disse, sem citar Flávio, que "jamais abandonou" o país.
+- **O que pensa o eleitor:** uma pesquisa **Quaest** (30/10 a 2/11) mostrou que **62%** consideram errada a ida de Flávio aos EUA, e 29%, certa. Para 56%, ele saiu para fugir da Justiça; para 35%, para escapar de perseguição.
+- ⚖️ **Visões opostas:** aliados e alguns juristas veem perseguição política: a ordem contra Flávio saiu minutos após o resultado, sob sigilo e com base em indícios que consideram frágeis, e ele diz que o governo usou a máquina pública na campanha. Críticos, inclusive parte da imprensa, dizem que contestar a eleição sem provas repete o discurso golpista de 2022 e que a saída do país reforça as suspeitas. Até agora, nenhuma instituição apontou fraude na votação, e a afirmação sobre a prorrogação foi contestada: o TSE registrou só 34 mil votos depois das 17h.
 
 ## 4. O Brasil no mundo
 
@@ -64,12 +67,18 @@ A política externa brasileira tem algumas marcas que vêm de longe:
 - [Wikipedia — Eleição geral brasileira de 2026](https://en.wikipedia.org/wiki/2026_Brazilian_general_election)
 - [Gazeta do Povo — Ordem contra Flávio e a tese de perseguição](https://www.gazetadopovo.com.br/republica/sigilo-rapidez-e-fragilidade-de-ordem-contra-flavio-reforcam-tese-de-perseguicao-politica/)
 - [Estado de Minas — Flávio vai aos EUA com passaporte cancelado (28/10/2026)](https://www.em.com.br/politica/2026/10/7529634-flavio-bolsonaro-fugiu-para-os-eua-com-passaporte-cancelado-pelo-stf.html)
-- [Metrópoles — A carta de Flávio (28/10/2026)](https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil)
 - [Nexo — A carta de Flávio como novo capítulo do golpismo (28/10/2026)](https://www.nexojornal.com.br/expresso/2026/10/28/flavio-bolsonaro-eua-porque-flavio-bolsonaro-saiu-do-pais-flavio-e-trump)
-- [Colombia One — Delcy Rodríguez promete eleições (29/10/2026)](https://colombiaone.com/2026/10/29/delcy-rodriguez-promises-elections-in-venezuela-and-replaces-her-foreign-minister/)
+- [Metrópoles — A carta de Flávio (28/10/2026)](https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil)
+- [O Hoje — "Não tenho provas": Flávio questiona as eleições e fala em 2030 (06/11/2026)](https://ohoje.com/2026/11/06/nao-tenho-provas-flavio-questiona-eleicoes-e-admite-disputar-presidencia-em-2030/)
+- [Sputnik Brasil via Tribuna do Sertão — PL pedirá cassação da chapa de Lula, diz Flávio (06/11/2026)](https://www.tribunadosertao.com.br/geral/2026/11/06/1015644-flavio-bolsonaro-afirma-que-pl-pedira-cassacao-da-candidatura-de-lula)
+- [Estado de Minas — Quaest: 62% consideram errada a ida de Flávio aos EUA (novembro de 2026)](https://www.em.com.br/politica/2026/11/7535076-quaest-62-consideram-errada-fuga-de-flavio-bolsonaro-aos-eua.html)
+- [Correio Braziliense via Estado de Minas — Lula diz que "jamais abandonou" o país (08/11/2026)](https://em.com.br/politica/2026/11/7535251-sem-citar-flavio-bolsonaro-lula-diz-que-jamais-abandonou-o-pais.html)
+- [Colombia One — Delcy Rodríguez promete eleições e troca de chanceler (02/11/2026)](https://colombiaone.com/2026/11/02/delcy-rodriguez-promises-elections-in-venezuela-and-replaces-her-foreign-minister/)
+- [Al Jazeera — EUA pedem que a Venezuela siga plano de transição em fases (03/11/2026)](https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition)
+- [AFP via Arab News — Machado apoia o roteiro eleitoral dos EUA (05/11/2026)](https://www.arabnews.com/world/machado-backs-us-election-roadmap-for-venezuela-3010044)
 - [Anadolu — Delcy descarta eleições imediatas (30/10/2026)](https://www.aa.com.tr/en/americas/interim-president-delcy-rodriguez-rules-out-immediate-elections-in-venezuela/4105273)
-- [Euronews — Machado volta do exílio e aposta no diálogo (26/10/2026)](https://es.euronews.com/video/2026/10/26/maria-corina-machado-regresa-del-exilio-y-apuesta-por-el-dialogo-con-delcy-rodriguez)
 - [S-RM — Venezuela num mundo pós-Maduro (10/04/2026)](https://www.s-rminform.com/latest-thinking/venezuela-in-a-post-maduro-world-an-ongoing-transition)
+- [Euronews — Machado volta do exílio e aposta no diálogo (26/10/2026)](https://es.euronews.com/video/2026/10/26/maria-corina-machado-regresa-del-exilio-y-apuesta-por-el-dialogo-con-delcy-rodriguez)
 - [PBS — Calma tensa na Venezuela após a captura de Maduro](https://www.pbs.org/newshour/world/tense-calm-holds-in-venezuela-the-day-after-maduro-was-taken-by-u-s-military)
 
 [← EUA e China](07-eua-china.md) · [Próximo: Extrema-direita →](09-extrema-direita-populismo.md)
