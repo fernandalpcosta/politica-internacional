@@ -2,7 +2,7 @@
 
 [← Rússia e Ucrânia](05-russia-ucrania-europa.md) · [Próximo: EUA e China →](07-eua-china.md)
 
-> 📅 Situação atualizada em **09/11/2026**. Este é o tema em que as palavras são mais disputadas. O guia tenta mostrar como cada lado enxerga os fatos.
+> 📅 Situação atualizada em **16/11/2026**. Este é o tema em que as palavras são mais disputadas. O guia tenta mostrar como cada lado enxerga os fatos.
 
 ---
 
@@ -33,17 +33,20 @@
 ### 4. O cessar-fogo e onde estamos
 
 - Em **outubro de 2025**, um cessar-fogo baseado num plano dos EUA entra em vigor, com a libertação dos reféns.
-- **Um ano depois**, a situação continua violenta. As autoridades de Gaza contam pelo menos **1.610 palestinos mortos por Israel desde o cessar-fogo** (e mais de 74.600 desde o início da guerra).
-- **Inverno e enchentes:** em **7 e 8 de novembro**, chuvas fortes alagaram cerca de **70 mil barracas**, segundo o governo local. A Al Jazeera relatou cinco mortos, quatro deles crianças, e quase 400 mil deslocados vivem em áreas sujeitas a inundações.
-- Israel controla **mais de 60% do território de Gaza**, depois de ampliar a chamada "Linha Amarela", que o acordo previa como linha inicial de retirada, e trabalha para chegar a **70%**. A ONU diz que os palestinos estão sendo empurrados para uma área cada vez menor.
-- **O impasse:** o Hamas diz que só se desarma por completo quando Israel sair de Gaza; Israel diz que só sai quando o Hamas entregar as armas. Enquanto isso, a reconstrução não começou e moradores dizem viver como se a guerra nunca tivesse acabado.
+- **Um ano depois**, a situação continua violenta. Segundo o Ministério da Saúde de Gaza (dados de 14/11), pelo menos **1.643 palestinos foram mortos desde o cessar-fogo** e mais de **74.690 desde o início da guerra**; ainda há corpos sendo retirados dos escombros.
+- **Mais um comandante morto:** em **14/11**, um ataque de drone israelense numa área de barracas de deslocados em Khan Younis matou **Samir Abu Younis**, comandante da Brigada de Rafah do Hamas. Israel diz que ele ajudou a planejar o 7 de outubro; é o segundo chefe dessa brigada morto em cerca de dois meses. O Hamas confirmou a morte. Para Israel, são ações contra ameaças; para o Hamas e os palestinos, são violações do cessar-fogo.
+- **Inverno:** depois das chuvas de 7 e 8/11, que alagaram dezenas de milhares de barracas, as autoridades locais contam **11 mortes por frio**, entre elas a de um bebê de nove meses. A União Europeia pediu ajuda "imediata e sem obstáculos", e o Conselho da Paz (órgão criado pelo plano americano) pressiona Israel a liberar materiais para abrigos que Israel considera de "uso duplo" (que poderiam servir ao Hamas).
+- Israel controla **mais de 60% do território de Gaza**, depois de ampliar a chamada "Linha Amarela", que o acordo previa como linha inicial de retirada. A ONU diz que os palestinos estão sendo empurrados para uma área cada vez menor.
+- **O impasse:** o Hamas diz que só se desarma por completo quando Israel sair de Gaza; Israel diz que só sai quando o Hamas entregar as armas. Enquanto isso, a reconstrução não começou.
 
 ### 5. A eleição de 2026 em Israel
 
 - Em **27/10/2026**, Israel votou para o Parlamento (Knesset, 120 cadeiras), com uma das maiores participações em décadas. **Ninguém chegou às 61 cadeiras** necessárias para governar.
 - **Bloco de Netanyahu:** 53 cadeiras (o Likud continua o maior partido, com 27). **Oposição judaica**, liderada pelo ex-chefe do Exército **Gadi Eisenkot**: 48. **Partidos árabes:** 19, um recorde.
-- **Eisenkot recebe a missão:** depois de ouvir os partidos, o presidente **Isaac Herzog** encarregou **Gadi Eisenkot** de formar o governo (anúncio em 7/11, cerimônia em 8/11). Eisenkot foi recomendado por **67 deputados**, contra **46** para Netanyahu; os partidos árabes entraram nessa conta. Ele tem **28 dias**, prorrogáveis por mais 14.
-- **O dilema continua:** Eisenkot descarta governar com os partidos árabes, e sem eles não chega a 61. Por isso, ele acena a deputados do Likud e da direita religiosa, falando em "união" (relatos divergem sobre se aceitaria o próprio Netanyahu), enquanto Lieberman tenta atrair os partidos ultraortodoxos. Netanyahu, premiê interino, pede um governo de união liderado pela direita e diz que o país não sobreviveria a um governo apoiado por partidos árabes.
+- **Eisenkot recebe a missão:** o presidente **Isaac Herzog** encarregou **Gadi Eisenkot** de formar o governo, depois de ele ser recomendado por **67 deputados** (contando os partidos árabes), contra **46** para Netanyahu. O novo Parlamento tomou posse em **10/11**. Eisenkot tem 28 dias, prorrogáveis por mais 14.
+- **Negociação com o Likud:** Netanyahu, premiê interino, pede um governo de "união nacional" e, em **14/11**, desistiu de exigir um rodízio no cargo de premiê. Em **15/11**, as equipes do Likud e do partido de Eisenkot (Yashar) se reuniram num clima "profissional", mas sem avanços. Eisenkot exige que o Likud entre num governo liderado por ele e chamou o apelo de Netanyahu de "blefe". Ele também corteja os ultraortodoxos, cujo maior obstáculo é a lei do alistamento militar.
+- **Denúncia de interferência:** em **15/11**, um canal de TV israelense noticiou que o chefe de gabinete de Netanyahu fez uma denúncia contra membros do partido árabe Ra'am na véspera da eleição, levando à prisão de três deles (soltos depois, por falta de base), e que o chefe do Shin Bet (serviço de segurança interna) pediu para grampear deputados árabes no dia da votação, pedido que foi negado. Eisenkot disse que isso é uma ameaça direta à democracia e que Netanyahu não pode continuar no cargo "nem mais um minuto". O Likud chamou a declaração de "incitação ultrajante", e o Shin Bet diz ter agido dentro da lei.
+- **A oposição testa sua maioria:** mesmo sem governo formado, o bloco de Eisenkot quer usar os votos que tem no Parlamento para trocar o presidente da Knesset (votação marcada para 17/11) e começar a revogar a **reforma do Judiciário** aprovada pelo governo Netanyahu. Para isso, depende do apoio ou da abstenção dos partidos árabes, o mesmo dilema de antes: Eisenkot e Lieberman descartam governar com eles, e sem eles ninguém chega a 61.
 - **Leituras diferentes:** para a oposição, o resultado é uma derrota de Netanyahu depois do 7 de outubro. Para o Likud, ele continua liderando o maior partido e o maior bloco judaico. Analistas notaram que **Gaza quase não foi tema de campanha**, que girou em torno do Judiciário, do alistamento de ultraortodoxos e da investigação sobre as falhas do 7 de outubro.
 
 ### 6. As grandes perguntas
@@ -75,10 +78,10 @@
 
 ### 3. Onde estamos agora
 
-- **Diplomacia x ameaça:** **Catar e Paquistão** mediam conversas indiretas em Doha. O Irã propôs um plano de **dois dias**: no primeiro, os EUA tomariam medidas (como liberar bens congelados, suspender o bloqueio naval e as sanções e parar os combates em todas as frentes, inclusive no Líbano); no segundo, o Irã reabriria Ormuz e aceitaria discutir o programa nuclear. Washington dificilmente aceitará a maior parte das condições, e o secretário de Estado Marco Rubio disse que não há um avanço iminente.
-- **Ataques pontuais:** em **2/11**, véspera das eleições americanas, os EUA fizeram ataques que chamaram de "limitados e defensivos" contra a ilha iraniana de Qeshm, depois de a Guarda Revolucionária disparar contra uma aeronave americana. Depois da derrota republicana nas eleições (veja o [módulo 7](07-eua-china.md)), Trump disse que uma nova guerra é "muito improvável" se o Irã assinar um acordo forte, mas que os EUA seguem prontos para atacar. O chanceler iraniano Araghchi disse que as eleições "travaram temporariamente" a mediação e ameaçou responder duramente a qualquer ataque.
-- **Ormuz, ainda o centro da crise:** os ataques a navios continuaram na primeira semana de novembro, perto de Omã e do Catar; um marinheiro indiano morreu. A Guarda Revolucionária declara o estreito fechado a quem não se coordena com Teerã, e os EUA mantêm seu bloqueio naval. O petróleo Brent, que chegou a **116 dólares** em 23/10, caiu para perto de **95 dólares** depois das eleições americanas, com a esperança de um acordo.
-- **Iêmen e Líbano:** os Houthis seguem lançando mísseis e drones contra a Arábia Saudita (inclusive contra o aeroporto de Dammam e a região de Medina), e dizem que bombardeios sauditas mataram dezenas de pessoas perto de Sanaa. No Líbano, o acordo-quadro com Israel assinado em junho prevê o desarmamento do Hezbollah, que se recusa a entregar as armas. As conversas entre os dois países estão suspensas e Israel continua fazendo ataques.
+- **Diplomacia parada:** em **9/11**, Trump recebeu o premiê do Catar e disse que a guerra "militarmente está praticamente acabada" e que novos grandes ataques são muito improváveis. Mas o Irã **nega que haja negociações**: o chefe da segurança nacional, Mohsen Rezaei, disse que é "pura mentira" e que Teerã espera resposta a suas condições (fim das sanções, fim do bloqueio naval americano e fim dos combates em todas as frentes, inclusive no Líbano). Em **12/11**, Trump mandou o vice JD Vance, que chefiava as negociações, se concentrar em temas internos e disse que um acordo com o Irã deixou de ser prioridade. Analistas iranianos leem isso como um quadro de "nem guerra, nem acordo".
+- **Ameaça no ar:** segundo a Reuters, Trump avalia não atacar de novo, a menos que o Irã ou os Houthis provoquem; ao mesmo tempo, um terceiro porta-aviões americano segue para a região, e a TV israelense diz que Israel prepara cenários para uma volta dos combates. Um jornal israelense noticiou que o Mossad alertou a CIA sobre um suposto plano iraniano de ataque com drones contra Trump; a informação não foi confirmada de forma independente. Na ONU, o Irã pediu o fim do bloqueio, que diz punir 90 milhões de pessoas, e prometeu resposta imediata a qualquer novo ataque.
+- **Ormuz, ainda o centro da crise:** o Irã diz que o estreito fica fechado até suas exigências serem atendidas e minou uma rota que considera "não autorizada". Em **10/11** e de novo em **13 e 14/11**, petroleiros pegaram fogo após atingir minas; o Irã ameaçou outros navios com o "mesmo destino". Segundo a agência marítima britânica UKMTO, o tráfego está cerca de **65% abaixo** do normal de antes da guerra, e outubro teve o recorde de ataques a navios. O petróleo Brent, que chegou a **116 dólares** em 23/10, caiu para cerca de **93 dólares** em 9/11 (menor nível em dois meses), depois das falas de Trump, mas voltou a oscilar com os ataques a navios.
+- **Iêmen e Líbano:** os Houthis seguem lançando mísseis e drones contra a Arábia Saudita (em **14 e 15/11**, a coalizão saudita disse ter derrubado drones e dois mísseis lançados contra Riad) e avançam no sul do Iêmen, em direção à cidade de Áden, sede do governo reconhecido internacionalmente. No Líbano, o acordo-quadro com Israel assinado em junho prevê o desarmamento do Hezbollah, que se recusa a entregar as armas. Israel continua fazendo ataques e demolindo túneis no sul do país, e o embaixador dos EUA na ONU foi a Beirute discutir o desarmamento e a retirada israelense.
 - Internamente, o regime endureceu: as **execuções aumentaram**, com pelo menos 2.003 no ano até 8 de outubro, segundo a ONG HRANA.
 
 ---
@@ -89,23 +92,24 @@
 3. Que interesses têm a Arábia Saudita e os países do Golfo nessa história?
 4. Por que você acha que Gaza quase não apareceu na campanha eleitoral israelense?
 5. Por que os votos dos partidos árabes são, ao mesmo tempo, decisivos e um problema para quem quer tirar Netanyahu do poder?
+6. Por que um bloqueio naval e um estreito fechado podem durar meses mesmo quando ninguém quer uma guerra total?
 
 ### Fontes
 - [CFR — Global Conflict Tracker: conflito israelo-palestino](https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict)
-- [Asharq Al-Awsat — Um ano de cessar-fogo em Gaza (09/10/2026)](https://english.aawsat.com/arab-world/5327888-year-ceasefire-israel-wages-scaled-down-war-gaza)
-- [Times of Israel — Moradores de Gaza um ano após o cessar-fogo](https://www.timesofisrael.com/one-year-into-ceasefire-vexed-gazans-say-theyre-still-living-like-war-never-ended/)
-- [Al Jazeera — Ataques israelenses continuam em Gaza (31/10/2026)](https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue)
+- [Al Jazeera — Ataque israelense mata comandante sênior do Hamas em Gaza (15/11/2026)](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza)
 - [Al Jazeera — Enchentes em Gaza deixam dezenas de milhares sem abrigo (08/11/2026)](https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter)
 - [Al Jazeera — Por que Gaza não esteve na eleição israelense (31/10/2026)](https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot)
-- [Al Jazeera — Herzog escolhe Eisenkot em vez de Netanyahu (07/11/2026)](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government)
 - [Al Jazeera — Eisenkot recebe a missão e acena ao Likud (08/11/2026)](https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government)
-- [Times of Israel — Herzog escolhe Eisenkot, mas o caminho é difícil (07/11/2026)](https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/)
-- [CBS News — Ao vivo: Irã minimiza chance de acordo após ataques dos EUA (02 e 03/11/2026)](https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/)
-- [CBS News — Ao vivo: novos ataques a navios e preço do petróleo (06/11/2026)](https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/)
-- [Fox News — Ao vivo: Trump, Irã, Arábia Saudita e Houthis (08/11/2026)](https://noticias.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8)
-- [Al Jazeera — Ao vivo: Araghchi e o plano de dois dias para reabrir Ormuz (01/11/2026)](https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz)
+- [Al Jazeera — Eisenkot diz que Netanyahu não pode continuar, após denúncia de interferência (16/11/2026)](https://aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling)
+- [Times of Israel — Yashar e Likud fazem conversas; bloco de Eisenkot quer controlar a Knesset (15/11/2026)](https://www.timesofisrael.com/yashar-likud-meet-for-unity-talks-as-eisenkot-bloc-moves-to-assert-control-over-knesset/)
+- [Times of Israel — Ao vivo (15/11/2026)](https://www.timesofisrael.com/liveblog-november-15-2026/)
+- [Al Jazeera — Irã nega conversas com os EUA e diz que Ormuz segue fechado (11/11/2026)](https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met)
+- [Al Jazeera — Como o Irã vê a saída de Vance das negociações (14/11/2026)](https://aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away)
+- [Gulf News — Ao vivo: Trump avalia contenção; Israel alerta para suposto plano iraniano (14 e 15/11/2026)](https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947)
+- [Tehran Times — Irã pede fim do bloqueio marítimo dos EUA (novembro de 2026)](https://www.tehrantimes.com/news/532140/Iran-calls-on-US-to-end-aggression-lift-maritime-blockade)
+- [Iran War Live — Resumo do dia 260 (14/11/2026)](https://iranwarlive.com/recaps/day-260)
+- [Reuters via Khaleej Times — Petróleo cai quase 5% após sinal de contenção de Trump (09/11/2026)](https://www.khaleejtimes.com/business/oil-falls-almost-5-as-trump-signals-restraint-on-iran)
 - [Asharq Al-Awsat — Ataque israelense no sul do Líbano (novembro de 2026)](https://english.aawsat.com/arab-world/5337594-lebanon-says-israeli-strike-kills-one-south)
-- [Iran International — EUA e Israel ameaçam novos ataques (19/10/2026)](https://www.iranintl.com/en/202610194621)
 - [Wikipedia — Cronologia da guerra do Irã de 2026](https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war)
 - [Wikipedia — Cessar-fogo da guerra do Irã de 2026](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
 

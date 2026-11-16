@@ -2,7 +2,7 @@
 
 [← Depois de 1991](04-mundo-pos-1991.md) · [Próximo: Oriente Médio →](06-oriente-medio.md)
 
-> 📅 Situação atualizada em **09/11/2026**.
+> 📅 Situação atualizada em **16/11/2026**.
 
 ---
 
@@ -41,13 +41,14 @@
 
 **🌍 Boa parte do Sul Global** (Brasil, Índia, África do Sul) condena a violação de fronteiras em votações na ONU, mas **não adere às sanções** e defende negociações. O Brasil tenta se apresentar como possível mediador.
 
-## 5. Onde estamos agora (início de novembro de 2026)
+## 5. Onde estamos agora (meados de novembro de 2026)
 
-- **Frente de batalha:** a Rússia controla cerca de um quinto do território ucraniano (Crimeia e partes de Donetsk, Luhansk, Zaporíjia e Kherson). Segundo o ISW, as defesas ucranianas **frearam bastante o avanço russo em 2026** em comparação com anos anteriores. Não houve mudanças grandes no mapa na última semana.
-- **A trégua de Oleshky terminou:** o cessar-fogo local na cidade ocupada de Oleshky (região de Kherson), intermediado pela primeira-dama dos EUA, Melania Trump, durou de **27/10 a 1º/11**. Nesse período, cerca de **800 pessoas** foram retiradas, e o ombudsman ucraniano disse que nenhum dos lados registrou violações. Ele negocia agora com a ombudsman russa entregas mensais de ajuda à cidade. Foi pequeno, mas mostrou que acordos pontuais são possíveis.
-- **A ofensiva contra a energia ficou mais forte:** na madrugada de **3/11**, a Rússia lançou cerca de 290 drones e 76 mísseis contra usinas e subestações de Odessa a Rivne, um dos maiores ataques da guerra; uma grande empresa de energia perdeu três de suas cinco termelétricas. Em **7/11**, 36 mísseis balísticos (só quatro foram derrubados; Zelensky culpa a falta de mísseis Patriot) e mais de 170 drones deixaram Kiev sem luz, aquecimento e água e danificaram uma grande ponte sobre o rio Dnipro. Moscou diz que mira alvos militares, industriais, de energia e de transporte. Em **2/11**, um bombardeio russo a uma escola usada para distribuir ajuda em Komyshuvakha matou pelo menos 33 pessoas, segundo Zelensky. A Ucrânia, por sua vez, segue atacando refinarias russas, como a de Yaroslavl.
-- **Negociações marcadas para 10 e 11 de novembro em Abu Dhabi:** o enviado americano Steve Witkoff anunciou conversas **a três (EUA, Ucrânia e Rússia), em nível técnico**, as primeiras desde fevereiro. A pauta inclui arranjos de segurança para o pós-guerra, redução da violência, questões humanitárias e "próximos passos rumo à paz". Antes, os EUA se reúnem em Bruxelas com França, Alemanha, Reino Unido, UE e OTAN. O chanceler alemão Friedrich Merz chamou as conversas de passo certo, mas disse não ver ainda sinal de que a Rússia queira negociar a sério.
-- **O nó continua o mesmo:** a Rússia exige que a Ucrânia entregue **todo o Donbass**, inclusive a parte que ainda controla, quer que ela desista da OTAN e não aceite tropas estrangeiras, e rejeita os europeus na mesa. A Ucrânia recusa ceder terra que defende, rejeita a neutralidade e quer garantias de segurança parecidas com o Artigo 5 da OTAN, aprovadas pelo Congresso americano, além de um exército de até 800 mil soldados. Para o ISW, Moscou mantém as exigências máximas de 2022; Zelensky acusa a Rússia de usar os ataques para pressionar antes das conversas. O Kremlin culpa os ataques ucranianos de longo alcance pelo impasse.
+- **Frente de batalha:** a Rússia controla cerca de um quinto do território ucraniano (Crimeia e partes de Donetsk, Luhansk, Zaporíjia e Kherson). Os dois exércitos seguem praticamente travados numa linha de cerca de 1.200 km. Segundo o ISW, as defesas ucranianas **frearam bastante o avanço russo em 2026**, e Kiev diz ter feito contra-ataques em Dnipropetrovsk, Donetsk e Zaporíjia (dados que não dá para confirmar de forma independente).
+- **Inverno e energia:** a Rússia mantém a ofensiva contra a rede elétrica. Em **7/11**, lançou 36 mísseis balísticos (só quatro foram derrubados; Zelensky culpa a falta de mísseis Patriot e diz que parte deles eram KN-23 fornecidos pela Coreia do Norte) e 172 drones contra Kiev e outras 12 regiões, atingindo subestações, uma grande ponte sobre o Dnipro e um jardim de infância. Os ataques de drones dos dois lados continuaram durante as negociações: em 10 e 11/11, a Ucrânia relatou mais de 160 drones russos por noite, e a Rússia disse ter derrubado centenas de drones ucranianos. Moscou diz mirar alvos militares e de energia; Kiev diz que o objetivo é deixar a população no frio. A Ucrânia segue atacando refinarias russas.
+- **As conversas de Abu Dhabi (10 e 11/11):** foram as primeiras negociações a três (EUA, Ucrânia e Rússia) em nove meses. Pelos EUA, participaram Steve Witkoff e Jared Kushner; a Ucrânia foi liderada por Rustem Umerov, e a Rússia, por Vladimir Medinsky. Representantes de França, Reino Unido, Alemanha e Itália estiveram em Abu Dhabi, mas a Rússia recusou tê-los na mesa. **Não houve avanço sobre o fim da guerra**, mas os dois lados concordaram com uma **nova troca de prisioneiros "em larga escala"** (Zelensky falou em 1.000 ou 1.500 de cada lado; os detalhes ainda não foram divulgados). Os americanos foram depois a Moscou falar com Putin, e Zelensky se reuniu com eles em Dublin. Uma nova rodada, desta vez com participação europeia, já foi anunciada, ainda sem data confirmada.
+- **Leituras diferentes:** Kushner e o secretário de Estado Marco Rubio chamaram as conversas de produtivas e um "passo positivo"; Trump disse que a guerra vai "acabar logo". Zelensky as descreveu como construtivas. Medinsky disse que houve pontos em comum e outros não, mas também que "cada centímetro de terra russa" voltará à Rússia "de um jeito ou de outro". Do lado ucraniano, um deputado disse não ter esperança além da troca de prisioneiros, e o chanceler alemão Merz disse não ter grandes expectativas.
+- **O nó continua o mesmo:** a Rússia exige que a Ucrânia entregue **todo o Donbass**, inclusive a parte que ainda controla (cerca de 5 mil km²), desista da OTAN e aceite limites ao seu exército. Segundo o jornal britânico *Telegraph*, os enviados americanos chegaram a sugerir **redesenhar as fronteiras administrativas de Donetsk e Luhansk** seguindo a linha de frente; a Ucrânia rejeitou e diz que não reconhecerá a ocupação "nem de fato, nem de direito". Kiev quer primeiro um cessar-fogo, garantias de segurança fortes e diz que território só se discute num encontro entre Zelensky e Putin, que o Kremlin recusa.
+- **Próximo capítulo:** Putin, Trump e Xi Jinping devem fazer um inédito encontro a três em **Shenzhen, na China, em 19/11** (veja o [módulo 7](07-eua-china.md)). Segundo um funcionário americano, porém, Trump não pretende levar a Ucrânia para essa mesa.
 
 ## 6. E a Europa?
 
@@ -62,14 +63,18 @@
 1. Que lente do módulo 1 (realismo, liberalismo ou construtivismo) explica melhor esta guerra para você?
 2. Um acordo de paz em que a Ucrânia cede território seria "paz" ou "recompensa à agressão"? Que argumentos cada lado daria?
 3. Por que a derrota de Orbán na Hungria importa para a Ucrânia?
+4. Por que uma troca de prisioneiros pode sair de uma negociação que não chega a um acordo de paz?
 
 ### Fontes
-- [Kyiv Post — EUA marcam conversas em Abu Dhabi para 10 e 11 de novembro (03/11/2026)](https://www.kyivpost.com/post/88971)
-- [Kyiv Post — Fim da trégua de Oleshky e retirada de civis (02/11/2026)](https://www.kyivpost.com/post/88897)
-- [Reuters via Spokesman-Review — Rússia bombardeia a rede elétrica antes das conversas; Merz cobra Moscou (03/11/2026)](https://www.spokesman.com/stories/2026/nov/03/russia-bombards-ukraine-power-grid-before-abu-dhab/)
-- [Reuters via Moscow Times — Ataques a instalações de energia em Kiev e ponte danificada (07/11/2026)](https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198)
-- [Latin Times — Kiev sem luz, aquecimento e água após 36 mísseis e 172 drones (08/11/2026)](https://www.latintimes.com/russian-strikes-kyiv-energy-infrastructure-dnipro-bridge-601033)
-- [Moscow Times — Cessar-fogo em Oleshky e novas negociações (24/10/2026)](https://www.themoscowtimes.com/2026/10/24/russia-ukraine-agree-on-ceasefire-in-embattled-oleshky-plan-new-peace-talks-next-month-a94069)
+- [PBS/AP — Rússia e Ucrânia fazem quase 4 horas de conversas em Abu Dhabi (10/11/2026)](https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi)
+- [ABC News — Rússia, Ucrânia e EUA se reúnem em Abu Dhabi (10/11/2026)](https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621)
+- [ABC News — Conversas terminam sem anúncio de avanço, em meio a ataques de drones (11/11/2026)](https://abcnews.com/International/ukraine-russia-exchange-hundreds-drones-day-2-abu/story?id=138038984)
+- [Kyiv Post — Ucrânia rejeita plano dos EUA de redesenhar fronteiras do Donbass (11/11/2026)](https://www.kyivpost.com/post/89765)
+- [Kyiv Post — Medinsky promete retomar "cada centímetro" e anuncia troca de prisioneiros (11/11/2026)](https://www.kyivpost.com/post/89788)
+- [Kyiv Post — Ataque russo a Kiev com 36 mísseis e 172 drones (07/11/2026)](https://www.kyivpost.com/post/89424)
+- [Kyiv Post — Zelensky cobra mísseis Patriot e cita KN-23 norte-coreanos (07/11/2026)](https://www.kyivpost.com/post/89444)
+- [Al Jazeera — O que esperar do encontro Trump–Xi–Putin (14/11/2026)](https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect)
+- [Kyiv Post — EUA marcam conversas em Abu Dhabi (03/11/2026)](https://www.kyivpost.com/post/88971)
 - [ISW — Avaliação da campanha russa (31/10/2026)](https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-october-31-2026)
 - [ISW via Korabelov — ritmo russo desacelera em 2026](https://korabelov.info/en/2026/08/602396/isw-in-2026-russia-s-pace-sharply-slowed-the-buffer-zone-near-kharkiv-remains-out-of-reach/)
 - [AP via KTTC — Orbán reconhece derrota (12/04/2026)](https://www.kttc.com/2026/04/12/hungarian-prime-minister-orbn-concedes-defeat-european-electoral-earthquake/?outputType=amp)

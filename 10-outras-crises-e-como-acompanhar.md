@@ -2,7 +2,7 @@
 
 [← Extrema-direita](09-extrema-direita-populismo.md) · [Glossário →](glossario.md)
 
-> 📅 Situação atualizada em **09/11/2026**.
+> 📅 Situação atualizada em **16/11/2026**.
 
 ---
 
@@ -16,7 +16,8 @@ Algumas das piores tragédias do mundo recebem pouca atenção. Vale conhecer as
 - Em **outubro de 2025**, as RSF tomaram a cidade de **El Fasher**. Uma missão da ONU concluiu em 2026 que houve crimes contra a humanidade e **genocídio** contra comunidades não árabes.
 - Em 2026, a guerra avança para o Kordofan, com ataques de drones que já mataram mais de mil civis só nos primeiros cinco meses do ano. Não há cessar-fogo duradouro.
 - **El Obeid**, capital do Kordofan do Norte e cidade-chave no caminho para Cartum, virou o novo foco. Um relatório da ONU de **28/10/2026** diz que os moradores estão presos entre os **drones das RSF**, que atingem casas, escolas e redes de água e luz, e as **prisões arbitrárias do exército**, que mantém milhares de detidos em locais superlotados. Segundo a missão, outubro teve o maior número de ataques de drones contra civis de toda a guerra, e só cerca de 30% dos hospitais da cidade funcionam.
-- **Guerra contra a infraestrutura:** no início de novembro, ataques de drones atingiram usinas e subestações elétricas (em Kassala e Merowe, por exemplo) e postos de combustível, causando cortes de luz e falta de água limpa em várias regiões. Um ataque a um posto de combustível no Kordofan do Sul, em **3/11**, matou pelo menos sete civis, segundo a imprensa (outras fontes falam em mais de 15). O secretário-geral da ONU disse que os drones já mataram centenas de civis e pediu o fim imediato das hostilidades; a Liga Árabe disse que atacar instalações de energia pode ser crime de guerra e nomeou um enviado para o Sudão.
+- **Guerra contra a infraestrutura:** os drones de longo alcance (que voam até 1.500 km) viraram a principal arma da guerra. Segundo o UNICEF (10/11), até **15 usinas elétricas** foram atingidas só em outubro, e na última semana do mês não houve um dia sem ataque a uma usina; dois em cada três casos de crianças mortas neste ano foram causados por drones. Os cortes de luz deixam hospitais e redes de água sem funcionar. O UNICEF não conseguiu apontar o autor de todos esses ataques, mas observou que eles dificilmente interessariam ao exército. A ONU diz que mais de 15 milhões de pessoas precisam de abrigo e que a ajuda para as crianças tem só um terço do dinheiro necessário.
+- **Tensão com a Etiópia:** o governo sudanês acusou formalmente a Etiópia, na ONU e na União Africana, de deixar as RSF lançarem drones a partir do seu território (fala em 70 ataques com 187 drones entre fevereiro e outubro). A Etiópia nega e acusa o Sudão de apoiar rebeldes etíopes. Há vozes no exército sudanês pedindo guerra contra o vizinho, mas analistas acham que o medo de uma escalada regional por enquanto segura os dois lados.
 - Potências regionais apoiam lados diferentes, o que prolonga o conflito. A missão da ONU encontrou uma rede que abastece as RSF passando por Chade, Líbia, Somália (Puntland) e Emirados Árabes Unidos, e pede que o embargo de armas, hoje limitado a Darfur, valha para todo o Sudão.
 
 ### Outros conflitos para ter no radar
@@ -24,7 +25,7 @@ Algumas das piores tragédias do mundo recebem pouca atenção. Vale conhecer as
 - **🌍 Sahel** (Mali, Burkina Faso, Níger): golpes militares, grupos jihadistas, saída das tropas francesas e aproximação com a Rússia.
 - **🇲🇲 Mianmar:** guerra civil desde o golpe militar de 2021.
 - **🇭🇹 Haiti:** gangues controlam grande parte da capital.
-- **🇾🇪 Iêmen:** os Houthis, apoiados pelo Irã, atacam navios e a Arábia Saudita, que responde com bombardeios. Os combates no país voltaram com força em 2026, e a ONU fala em mais de 300 mil deslocados no oeste do Iêmen (veja o [módulo 6](06-oriente-medio.md)).
+- **🇾🇪 Iêmen:** os Houthis, apoiados pelo Irã, atacam navios e a Arábia Saudita, que responde com bombardeios. Os combates no país voltaram com força em 2026, a ONU fala em mais de 300 mil deslocados no oeste do Iêmen, e em novembro os Houthis avançavam em direção a Áden, sede do governo reconhecido internacionalmente (veja o [módulo 6](06-oriente-medio.md)).
 - **🇮🇳🇵🇰 Índia e Paquistão:** a Caxemira segue como foco de tensão entre duas potências nucleares.
 
 ---
@@ -77,10 +78,10 @@ Algumas das piores tragédias do mundo recebem pouca atenção. Vale conhecer as
 - [Global Centre for the Responsibility to Protect — Sudão](https://www.globalr2p.org/countries/sudan/)
 - [ONU News — Civis de El Obeid presos entre drones e prisões (28/10/2026)](https://news.un.org/en/story/2026/10/1168696)
 - [Dabanga via allAfrica — Drones matam civis e danificam a rede elétrica do Sudão (05/11/2026)](https://allafrica.com/stories/202611050006.html)
-- [CGTN — Drone atinge posto de combustível no Kordofan do Sul (04/11/2026)](https://news.cgtn.com/news/2026-11-04/news-1RN9GM05OyA/p.html)
+- [ONU News — No Sudão, ataques de drones de longo alcance viraram regra (10/11/2026)](https://news.un.org/en/story/2026/11/1168771)
+- [Al Jazeera — Ataques de drones das RSF expõem tensão entre Sudão e Etiópia (03/11/2026)](https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia)
 - [Darfur24 — Ataques de drones no Sudão nesta semana (06/11/2026)](https://darfur24.com/en/2026/11/06/drone-strikes-in-sudan-this-week/)
-- [Khaleej Times — Houthis e Arábia Saudita (01/11/2026)](https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-1-2026)
-- [Fox News — Ao vivo: Houthis e Arábia Saudita (08/11/2026)](https://noticias.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8)
+- [Times of Israel — Ao vivo: Houthis avançam sobre Áden (15/11/2026)](https://www.timesofisrael.com/liveblog-november-15-2026/)
 - [CFR — Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/conflict/israeli-palestinian-conflict)
 
 [← Extrema-direita](09-extrema-direita-populismo.md) · [Glossário →](glossario.md)
